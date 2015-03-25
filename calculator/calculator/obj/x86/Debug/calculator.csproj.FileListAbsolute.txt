@@ -1,0 +1,8 @@
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\calculator\calculator\bin\Debug\calculator.exe
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\calculator\calculator\bin\Debug\calculator.pdb
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.frmMain.resources
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.csproj.GenerateResource.Cache
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.exe
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.pdb
+C:\Users\Administrator.MRNC-6QBDU4S3RG\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.csprojResolveAssemblyReference.cache
