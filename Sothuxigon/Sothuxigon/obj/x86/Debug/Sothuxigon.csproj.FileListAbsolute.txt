@@ -1,0 +1,8 @@
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\Sothuxigon\Sothuxigon\obj\x86\Debug\Sothuxigon.SoThu.resources
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\Sothuxigon\Sothuxigon\obj\x86\Debug\Sothuxigon.Properties.Resources.resources
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\Sothuxigon\Sothuxigon\obj\x86\Debug\Sothuxigon.csproj.GenerateResource.Cache
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\Sothuxigon\Sothuxigon\bin\Debug\Sothuxigon.exe
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\Sothuxigon\Sothuxigon\bin\Debug\Sothuxigon.pdb
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\Sothuxigon\Sothuxigon\obj\x86\Debug\Sothuxigon.exe
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\Sothuxigon\Sothuxigon\obj\x86\Debug\Sothuxigon.pdb
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Documents\Visual Studio 2010\Projects\Sothuxigon\Sothuxigon\obj\x86\Debug\Sothuxigon.csprojResolveAssemblyReference.cache
