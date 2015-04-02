@@ -1,0 +1,8 @@
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\My Photos\My Photos\obj\x86\Debug\My_Photos.Form1.resources
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\My Photos\My Photos\obj\x86\Debug\My_Photos.Properties.Resources.resources
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\My Photos\My Photos\obj\x86\Debug\My Photos.csproj.GenerateResource.Cache
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\My Photos\My Photos\bin\Debug\My Photos.exe
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\My Photos\My Photos\bin\Debug\My Photos.pdb
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\My Photos\My Photos\obj\x86\Debug\My Photos.exe
+c:\users\administrator.mrnc-6qbdu4s3rg\documents\visual studio 2010\Projects\My Photos\My Photos\obj\x86\Debug\My Photos.pdb
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Documents\Visual Studio 2010\Projects\My Photos\My Photos\obj\x86\Debug\My Photos.csprojResolveAssemblyReference.cache
