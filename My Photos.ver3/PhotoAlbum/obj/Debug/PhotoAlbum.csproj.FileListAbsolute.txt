@@ -1,0 +1,5 @@
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Documents\Visual Studio 2010\Projects\My Photos\PhotoAlbum\bin\Debug\PhotoAlbum.dll
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Documents\Visual Studio 2010\Projects\My Photos\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Documents\Visual Studio 2010\Projects\My Photos\PhotoAlbum\obj\Debug\PhotoAlbum.dll
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Documents\Visual Studio 2010\Projects\My Photos\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Documents\Visual Studio 2010\Projects\My Photos\PhotoAlbum\obj\Debug\PhotoAlbum.csprojResolveAssemblyReference.cache
