@@ -1,0 +1,4 @@
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb

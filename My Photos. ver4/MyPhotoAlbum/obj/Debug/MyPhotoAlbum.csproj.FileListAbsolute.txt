@@ -1,0 +1,10 @@
+D:\httoan\cau truc dl\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+D:\httoan\cau truc dl\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+D:\httoan\cau truc dl\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb

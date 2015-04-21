@@ -1,0 +1,39 @@
+D:\httoan\cau truc dl\Myphotos\MyPhotoControls\bin\Debug\MyPhotoControls.dll
+D:\httoan\cau truc dl\Myphotos\MyPhotoControls\bin\Debug\MyPhotoControls.pdb
+D:\httoan\cau truc dl\Myphotos\MyPhotoControls\obj\Debug\MyPhotoControls.dll
+D:\httoan\cau truc dl\Myphotos\MyPhotoControls\obj\Debug\MyPhotoControls.pdb
+D:\httoan\cau truc dl\Myphotos\MyPhotoControls\bin\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\Myphotos\MyPhotoControls\bin\Debug\MyPhotoAlbum.pdb
+D:\httoan\cau truc dl\Myphotos\MyPhotoControls\obj\Debug\MyPhotoControls.csprojResolveAssemblyReference.cache
+D:\httoan\cau truc dl\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PixelDialog.resources
+D:\httoan\cau truc dl\Myphotos\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.GenerateResource.Cache
+D:\httoan\cau truc dl\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.BaseEditDialog.resources
+D:\httoan\cau truc dl\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PhotoEditDialog.resources
+D:\httoan\cau truc dl\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumEditDialog.resources
+D:\httoan\cau truc dl\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumPasswordDialog.resources
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoControls\bin\Debug\MyPhotoControls.dll
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoControls\bin\Debug\MyPhotoControls.pdb
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoControls\bin\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoControls\bin\Debug\MyPhotoAlbum.pdb
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoControls\obj\Debug\MyPhotoControls.csprojResolveAssemblyReference.cache
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumEditDialog.resources
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumPasswordDialog.resources
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.BaseEditDialog.resources
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PhotoEditDialog.resources
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PixelDialog.resources
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.GenerateResource.Cache
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoControls\obj\Debug\MyPhotoControls.dll
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoControls\obj\Debug\MyPhotoControls.pdb
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoControls\bin\Debug\MyPhotoControls.dll
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoControls\bin\Debug\MyPhotoControls.pdb
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoControls\bin\Debug\MyPhotoAlbum.dll
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoControls\bin\Debug\MyPhotoAlbum.pdb
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoControls\obj\Debug\MyPhotoControls.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumEditDialog.resources
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumPasswordDialog.resources
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.BaseEditDialog.resources
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PhotoEditDialog.resources
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PixelDialog.resources
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.GenerateResource.Cache
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoControls\obj\Debug\MyPhotoControls.dll
+C:\Users\Administrator.MRNC-6QBDU4S3RG\Downloads\Myphotos\MyPhotoControls\obj\Debug\MyPhotoControls.pdb
