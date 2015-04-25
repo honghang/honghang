@@ -1,0 +1,12 @@
+d:\c#\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\ScrollablePictureBoxTest.exe
+d:\c#\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\ScrollablePictureBoxTest.pdb
+d:\c#\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\x86\Debug\ScrollablePictureBoxTest.TestForm.resources
+d:\c#\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\x86\Debug\ScrollablePictureBoxTest.Properties.Resources.resources
+d:\c#\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\x86\Debug\ScrollablePictureBoxTest.csproj.GenerateResource.Cache
+d:\c#\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\x86\Debug\ScrollablePictureBoxTest.exe
+d:\c#\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\x86\Debug\ScrollablePictureBoxTest.pdb
+d:\c#\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\MyPhotoControls.dll
+d:\c#\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\PhotoAlbum.dll
+d:\c#\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\MyPhotoControls.pdb
+d:\c#\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\PhotoAlbum.pdb
+d:\c#\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\x86\Debug\ScrollablePictureBoxTest.csprojResolveAssemblyReference.cache
