@@ -1,0 +1,19 @@
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.csprojResolveAssemblyReference.cache
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.AlbumTreeView.resources
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.ExplorerForm.resources
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.Properties.Resources.resources
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.csproj.GenerateResource.Cache
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.csprojResolveAssemblyReference.cache
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.AlbumTreeView.resources
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.ExplorerForm.resources
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.Properties.Resources.resources
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.csproj.GenerateResource.Cache
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.exe.config
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.exe
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.pdb
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.dll
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\bin\Debug\MyPhotoControls.dll
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.pdb
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\bin\Debug\MyPhotoControls.pdb
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.exe
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.pdb

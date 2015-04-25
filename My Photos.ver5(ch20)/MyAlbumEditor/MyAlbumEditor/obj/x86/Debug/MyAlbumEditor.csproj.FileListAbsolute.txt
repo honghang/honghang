@@ -1,0 +1,32 @@
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.exe
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.pdb
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoControls.dll
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoAlbum.pdb
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoControls.pdb
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.csprojResolveAssemblyReference.cache
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.EditorForm.resources
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.Properties.Resources.resources
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.csproj.GenerateResource.Cache
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.exe
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.pdb
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.AlbumCalendar.resources
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.AlbumImage.resources
+D:\httoan\cau truc dl\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.WorkerProgressDialog.resources
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.exe
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.pdb
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.exe
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.pdb
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoControls.dll
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoAlbum.pdb
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoControls.pdb
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.csprojResolveAssemblyReference.cache
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.AlbumCalendar.resources
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.AlbumImage.resources
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.EditorForm.resources
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.Properties.Resources.resources
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.WorkerProgressDialog.resources
+D:\httoan\cau truc dl\New folder (2)\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.csproj.GenerateResource.Cache
+C:\Users\KHANH\Desktop\New-folder-2\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.exe
+C:\Users\KHANH\Desktop\New-folder-2\MyAlbumEditor\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.pdb

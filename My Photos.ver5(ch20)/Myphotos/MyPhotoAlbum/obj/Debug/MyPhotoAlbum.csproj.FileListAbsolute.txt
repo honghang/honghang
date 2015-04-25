@@ -1,0 +1,19 @@
+D:\httoan\cau truc dl\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+D:\httoan\cau truc dl\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+D:\httoan\cau truc dl\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\New folder (2)\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb

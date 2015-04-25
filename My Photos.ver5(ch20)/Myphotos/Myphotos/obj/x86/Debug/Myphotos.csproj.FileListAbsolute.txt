@@ -1,0 +1,52 @@
+D:\httoan\cau truc dl\Myphotos\Myphotos\obj\x86\Debug\Myphotos.MainForm.resources
+D:\httoan\cau truc dl\Myphotos\Myphotos\obj\x86\Debug\Myphotos.Properties.Resources.resources
+D:\httoan\cau truc dl\Myphotos\Myphotos\obj\x86\Debug\Myphotos.csproj.GenerateResource.Cache
+D:\httoan\cau truc dl\Myphotos\Myphotos\bin\Debug\Myphotos.exe
+D:\httoan\cau truc dl\Myphotos\Myphotos\bin\Debug\Myphotos.pdb
+D:\httoan\cau truc dl\Myphotos\Myphotos\bin\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\Myphotos\Myphotos\bin\Debug\MyPhotoAlbum.pdb
+D:\httoan\cau truc dl\Myphotos\Myphotos\obj\x86\Debug\Myphotos.csprojResolveAssemblyReference.cache
+D:\httoan\cau truc dl\Myphotos\Myphotos\obj\x86\Debug\Myphotos.exe
+D:\httoan\cau truc dl\Myphotos\Myphotos\obj\x86\Debug\Myphotos.pdb
+D:\httoan\cau truc dl\Myphotos\Myphotos\bin\Debug\MyPhotoControls.dll
+D:\httoan\cau truc dl\Myphotos\Myphotos\bin\Debug\MyPhotoControls.pdb
+D:\httoan\cau truc dl\New folder (2)\Myphotos\Myphotos\obj\x86\Debug\Myphotos.exe
+D:\httoan\cau truc dl\New folder (2)\Myphotos\Myphotos\obj\x86\Debug\Myphotos.pdb
+D:\httoan\cau truc dl\New folder (2)\Myphotos\Myphotos\bin\Debug\Myphotos.exe
+D:\httoan\cau truc dl\New folder (2)\Myphotos\Myphotos\bin\Debug\Myphotos.pdb
+D:\httoan\cau truc dl\New folder (2)\Myphotos\Myphotos\bin\Debug\MyPhotoAlbum.dll
+D:\httoan\cau truc dl\New folder (2)\Myphotos\Myphotos\bin\Debug\MyPhotoControls.dll
+D:\httoan\cau truc dl\New folder (2)\Myphotos\Myphotos\bin\Debug\MyPhotoAlbum.pdb
+D:\httoan\cau truc dl\New folder (2)\Myphotos\Myphotos\bin\Debug\MyPhotoControls.pdb
+D:\httoan\cau truc dl\New folder (2)\Myphotos\Myphotos\obj\x86\Debug\Myphotos.csprojResolveAssemblyReference.cache
+D:\httoan\cau truc dl\New folder (2)\Myphotos\Myphotos\obj\x86\Debug\Myphotos.MainForm.resources
+D:\httoan\cau truc dl\New folder (2)\Myphotos\Myphotos\obj\x86\Debug\Myphotos.Properties.Resources.resources
+D:\httoan\cau truc dl\New folder (2)\Myphotos\Myphotos\obj\x86\Debug\Myphotos.csproj.GenerateResource.Cache
+D:\httoan\cau truc dl\New folder (2)\Myphotos\Myphotos\obj\x86\Debug\Myphotos.SlideShowDialog.resources
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.exe
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.pdb
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\Myphotos\bin\Debug\Myphotos.exe
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\Myphotos\bin\Debug\Myphotos.pdb
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\Myphotos\bin\Debug\MyPhotoAlbum.dll
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\Myphotos\bin\Debug\MyPhotoControls.dll
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\Myphotos\bin\Debug\MyPhotoAlbum.pdb
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\Myphotos\bin\Debug\MyPhotoControls.pdb
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.csprojResolveAssemblyReference.cache
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.MainForm.resources
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.Properties.Resources.resources
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.SlideShowDialog.resources
+C:\Users\KHANH\Desktop\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.csproj.GenerateResource.Cache
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.exe
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.pdb
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\bin\Debug\Myphotos.exe
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\bin\Debug\Myphotos.pdb
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\bin\Debug\MyPhotoAlbum.dll
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\bin\Debug\MyPhotoControls.dll
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\bin\Debug\MyPhotoAlbum.pdb
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\bin\Debug\MyPhotoControls.pdb
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.csprojResolveAssemblyReference.cache
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.MainForm.resources
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.ParentForm.resources
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.Properties.Resources.resources
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.SlideShowDialog.resources
+D:\HOCTAP\BÀI TẬP C#\LTNC\MyPhoto c19\New-folder-2\Myphotos\Myphotos\obj\x86\Debug\Myphotos.csproj.GenerateResource.Cache
